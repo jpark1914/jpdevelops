@@ -1,0 +1,12 @@
+.jumbotron{
+    background: url("images/nikita-kachanovsky-571468-unsplash.jpg")  top fixed no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+img{
+    display: inline-block;
+}
+
+.row{
+}
